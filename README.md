@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-## Hi, I'm Raymond Otoo, a Developer 🚀 from Ghana based in the U.S.
+## I'm Raymond Otoo, a Developer 🚀 from Ghana based in the U.S.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
