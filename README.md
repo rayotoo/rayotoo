@@ -30,7 +30,7 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I have a Masters degree in **Bioinformatics** & a **DevOps nanodegree**
 - 📫 How to reach me: raymondotoo115@gmail.com
-
+---
 **Languages and Tools:** 
 
 <!-- Your github readme stats
