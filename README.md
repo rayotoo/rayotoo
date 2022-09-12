@@ -23,13 +23,13 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/rayotoo/rayotoo/blob/main/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/rayotoo/handle-path-oz);
-- 🌱 I’m currently developing some containerized NGS pipelines; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/rayotoo/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with a User Interface 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a Masters degree in Bioinformatics and a DevOps nanodegree;
-- 📫 How to reach me: raymondotoo115@gmail.com;
+- :computer: I am working as a **Bioinformatics Engineer**
+- :monocle_face: Interested in everything **Cloud Native** 
+- 👯 I’m looking to collaborate on **Omics Projects** 🤝
+- 🤔 I’m looking for a **Fullstack Web Developer** 😭
+- 💬 Ask me about anything, I am happy to help
+- ⚡️ Fun-Fact: I have a Masters degree in **Bioinformatics** & a **DevOps nanodegree**
+- 📫 How to reach me: raymondotoo115@gmail.com
 
 **Languages and Tools:** 
 
