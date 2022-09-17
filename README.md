@@ -28,7 +28,7 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking to collaborate on **Omics Projects** 🤝
 - 🤔 I’m looking for a **Fullstack Web Developer** 😭
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I currently documenting all of my  **Bioinformatics Skills into a Book**
+- ⚡️ Fun-Fact: I'm currently documenting all of my  **Bioinformatics Skills into a Book**
 - 📫 How to reach me: raymondotoo115@gmail.com
 ---
 **Languages and Tools:** 
