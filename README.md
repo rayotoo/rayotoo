@@ -4,7 +4,7 @@
 **rayotoo/rayotoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- Your title -->
-## I'm Raymond Otoo, a Developer 🚀 from Ghana based in the U.S.
+## I'm Raymond Otoo, a Bioinformatics Analyst and NLP enthusiast.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
