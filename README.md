@@ -24,9 +24,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://github.com/rayotoo/rayotoo/blob/main/git-header.svg" />
 
 - :computer: I am working as a **Bioinformatics Engineer**
-- :monocle_face: Interested in everything **Cloud Native** 
+- :monocle_face: Interested in everything **Omics** 
 - 👯 I’m looking to collaborate on **Omics Projects** 🤝
-- 🤔 I’m looking for a **Fullstack Web Developer** 😭
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I'm currently documenting all of my  **Bioinformatics Skills into a Book**
 - 📫 How to reach me: raymondotoo115@gmail.com
