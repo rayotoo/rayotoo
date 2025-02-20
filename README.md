@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/rayotoo/rayotoo/blob/main/git-header.svg" />
 
-- :computer: I am working as a **Bioinformatics Engineer**
+- :computer: I am working as a **Bioinformatics Analyst**
 - :monocle_face: Interested in everything **Omics** 
 - 👯 I’m looking to collaborate on **Omics Projects** 🤝
 - 💬 Ask me about anything, I am happy to help
